@@ -30,7 +30,7 @@ Netryx uses a three-stage refinement pipeline to achieve high accuracy:
 ### Installation
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/llmgeo.git
+    git clone https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation.git
     cd llmgeo
     ```
 2.  **Create a Virtual Environment**:
