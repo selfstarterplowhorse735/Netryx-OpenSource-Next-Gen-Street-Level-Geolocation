@@ -185,7 +185,7 @@ macOS users: If the GUI appears blank, upgrade tkinter: brew install python-tk@3
 
 ### Step 1: Create an Index
 
-Before searching, you need to index an area. This crawls Google Street View panoramas and extracts CosPlace fingerprints.
+Before searching, you need to index an area. This crawls  Street View panoramas and extracts CosPlace fingerprints.
 
 1. Select **Create** mode
 2. Enter the center coordinates (latitude, longitude) of the area you want to index
