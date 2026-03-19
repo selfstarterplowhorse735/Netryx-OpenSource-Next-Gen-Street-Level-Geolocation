@@ -181,6 +181,7 @@ export GEMINI_API_KEY="your_key_here"
 ```bash
 python test_super.py
 ```
+macOS users: If the GUI appears blank, upgrade tkinter: brew install python-tk@3.11 (or your Python version). The system Python's bundled tkinter has known rendering issues on recent macOS versions.
 
 ### Step 1: Create an Index
 
